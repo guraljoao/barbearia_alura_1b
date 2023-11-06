@@ -1,6 +1,12 @@
 body{
     background:#CCCC;
 }
+#banner{
+    width: 100%;
+}
+.principal{
+background: #cccccc;
+padding: 30px;
 p{
     text-align: center;
 }
